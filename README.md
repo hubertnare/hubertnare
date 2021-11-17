@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Welcome to Hubert Nare's gh Profile;
-*"Yet another Open-Sourcerer, an engineering Student, a freelance Software Developer."*
+*"Yet another Open-Source guy, an engineering Student, a freelance Software Developer."*
 
 👯 I’m currently looking forward to collaborate on [MUI](https://github.com/mui-org/material-ui), an open source frontend react library (my personal favourite).
 
