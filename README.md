@@ -16,20 +16,18 @@ Here are some ideas to get you started:
 -->
 
 ### Welcome to Hubert Nare's gh Profile;
-*"Yet another Open-Source guy, an engineering Student, a freelance Software Developer."*
-
-👯 I’m currently looking forward to collaborate on [MUI](https://github.com/mui-org/material-ui), an open source frontend react library (my personal favourite).
+*"Yet Another Stoic Programmer, Technical Writer, Blockchain Developer, Open Source, Technopreneur"*
 
 ### Specialicializations
-- Javascript
+- JavaScript/TypeScript
 - React 
 - Node
 - Express
 - Firebase
 - Material-UI (MUI)
 - SaaS
-- Web3
+- Blockchain
 
-### Contact me
+### - 📫 How to reach me;
 - email; *hubertnare27@gmail.com*
 - [Click here to follow me on twitter](https://twitter.com/hubertnare)
